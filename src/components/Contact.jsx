@@ -30,7 +30,7 @@ function Contact() {
         <h1 className="text-3xl font-bold mb-4">Contact Me</h1>
         <span>Please fill out the form below to contact me</span>
         <div className="flex flex-col items-center justify-center mt-5">
-            <form className="bg-slate-200 w-96 px-8 py-6 rounded-xl" onSubmit={handleSubmit(onSubmit)}>
+            <form className="bg-slate-200 w-92 lg:w-96 px-8 py-6 rounded-xl" onSubmit={handleSubmit(onSubmit)}>
                 <h1 className="text-xl font-semibold mb-4 dark:text-gray-900">Send Your Message</h1>
                 <div className="flex flex-col mb-4">
                     <label className="block text-gray-700">Full Name</label>
