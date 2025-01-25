@@ -55,18 +55,18 @@ function Experience() {
     ]
   return (
     <>
-    <div className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16">
+    <div name="Experience" className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16">
         <div>
             <h1 className="text-3xl font-bold mb-5">Experience</h1>
             <p>I've more than 2 years of experience in below technologies.</p>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-7 my-7">
+            <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-7 my-7">
                 {
                     cardItem.map(({id, logo, name}) => (
                         <>
                         <div className="md:w-[280px] md:h-[280px] flex flex-col items-center justify-center p-1 rounded-full shadow-lg cursor-pointer hover:scale-110 bg-white" key={id}>
                             <img src={logo} className="w-[150px] h-[150px] rounded-full border-[2px]" alt="" />
                             <div>
-                                <div className="font-semibold text-l mb-2 px-2">{name}</div>
+                                <div className="font-semibold text-l mb-2 px-2 dark:text-gray-900">{name}</div>
                             </div>
                         </div>
                         </>

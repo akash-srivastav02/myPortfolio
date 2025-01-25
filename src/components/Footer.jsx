@@ -6,7 +6,8 @@ import { FaSquareGithub } from "react-icons/fa6";
 import { FaSquareXTwitter } from "react-icons/fa6";
 
 function Footer() {
-  return <>
+  return (
+  <>
   <hr />
   <footer className="py-12">
         <div className="max-w-screen-2xl container mx-auto px-4 md:px-20">
@@ -26,6 +27,7 @@ function Footer() {
         </div>
   </footer>
   </>
+  )
 }
 
 export default Footer;
