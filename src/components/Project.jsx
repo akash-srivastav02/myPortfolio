@@ -17,20 +17,20 @@ function Project() {
         },
         {
             id:2,
+            logo:Project3,
+            name:"Weather App",
+            description:"Used Tech: MERN + TailwindCSS",
+            visit:"https://weatherfrontend-nine.vercel.app/",
+            sourceCode:"https://github.com/akash-srivastav02/weatherApp"
+        },
+        {
+            id:3,
             logo:Project2,
             name:"TicTacToe Game",
             description:"Used Tech: HTML, CSS, JS",
             visit:"https://akash-srivastav02.github.io/tictactoe/",
             sourceCode:"https://github.com/akash-srivastav02/tictactoe"
-        },
-        // {
-        //     id:3,
-        //     logo:GIF,
-        //     name:"Project3",
-        //     description:"NO POINTS",
-        //     visit:"https://akash-srivastav.netlify.app/",
-        //     sourceCode:"https://akash-srivastav.netlify.app/"
-        // },
+        }
         // {
         //     id:4,
         //     logo:GIF,
