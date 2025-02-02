@@ -17,6 +17,14 @@ function Project() {
         },
         {
             id:2,
+            logo:Project2,
+            name:"Url Bit",
+            description:"Used Tech: MERN + TailwindCSS",
+            visit:"https://urlbit.netlify.app/",
+            sourceCode:"https://github.com/akash-srivastav02/url-shortener"
+        },
+        {
+            id:3,
             logo:Project3,
             name:"Weather App",
             description:"Used Tech: MERN + TailwindCSS",
@@ -24,15 +32,15 @@ function Project() {
             sourceCode:"https://github.com/akash-srivastav02/weatherApp"
         },
         {
-            id:3,
-            logo:Project2,
+            id:4,
+            logo:Project4,
             name:"TicTacToe Game",
             description:"Used Tech: HTML, CSS, JS",
             visit:"https://akash-srivastav02.github.io/tictactoe/",
             sourceCode:"https://github.com/akash-srivastav02/tictactoe"
         }
         // {
-        //     id:4,
+        //     id:5,
         //     logo:GIF,
         //     name:"Project4",
         //     description:"NO POINTS",
@@ -40,7 +48,7 @@ function Project() {
         //     sourceCode:"https://akash-srivastav02.github.io/registration_form/"
         // }
         // {
-        //     id:5,
+        //     id:6,
         //     logo:Project3,
         //     name:"Form",
         //     description:"Used Tech: HTML, CSS, JS",
@@ -48,7 +56,7 @@ function Project() {
         //     sourceCode:"https://github.com/akash-srivastav02/registration_form"
         // },
         // {
-        //     id:6,
+        //     id:7,
         //     logo:Project4,
         //     name:"Amazon Clone",
         //     description:"Used Tech: HTML, CSS",
