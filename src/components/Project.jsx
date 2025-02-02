@@ -1,7 +1,7 @@
 import React from 'react'
 import GIF from "../../public/GIF.gif";
 import Project1 from "../../public/Project1.gif"
-import Project2 from "../../public/Project2.png"
+import Project2 from "../../public/Project2.gif"
 import Project3 from "../../public/Project3.png"
 import Project4 from "../../public/Project4.png"
 
