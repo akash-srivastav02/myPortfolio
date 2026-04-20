@@ -21,7 +21,7 @@ function Project() {
             name:"TicTacToe AI Game",
             description:"Used Tech: HTML, CSS, JS",
             visit:"https://tictactoe-human-vs-ai.netlify.app/",
-            sourceCode:"https://github.com/akash-srivastav02/TicTacToe-Human_v_AI
+            sourceCode:"https://github.com/akash-srivastav02/TicTacToe-Human_v_AI"
         },
         {
             id:3,
