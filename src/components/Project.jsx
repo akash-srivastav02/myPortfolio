@@ -10,18 +10,18 @@ function Project() {
         {
             id:1,
             logo:Project1,
-            name:"Portfolio",
-            description:"Used Tech: ReactJs, Tailwind CSS",
-            visit:"https://akash-srivastav.netlify.app/",
-            sourceCode:"https://github.com/akash-srivastav02/myPortfolio"
+            name:"AI Notes Summarizer",
+            description:"Used Tech: MERN",
+            visit:"https://ai-notes-pro-five.vercel.app/",
+            sourceCode:"https://github.com/akash-srivastav02/ai-notes-pro"
         },
         {
             id:2,
-            logo:Project2,
-            name:"Url Bit",
-            description:"Used Tech: MERN + TailwindCSS",
-            visit:"https://urlbit.netlify.app/",
-            sourceCode:"https://github.com/akash-srivastav02/url-shortener"
+            logo:Project4,
+            name:"TicTacToe AI Game",
+            description:"Used Tech: HTML, CSS, JS",
+            visit:"https://tictactoe-human-vs-ai.netlify.app/",
+            sourceCode:"https://github.com/akash-srivastav02/TicTacToe-Human_v_AI
         },
         {
             id:3,
@@ -33,11 +33,11 @@ function Project() {
         },
         {
             id:4,
-            logo:Project4,
-            name:"TicTacToe Game",
-            description:"Used Tech: HTML, CSS, JS",
-            visit:"https://akash-srivastav02.github.io/tictactoe/",
-            sourceCode:"https://github.com/akash-srivastav02/tictactoe"
+            logo:Project2,
+            name:"URL Shortener",
+            description:"Used Tech: MERN + TailwindCSS",
+            visit:"https://urlbit.netlify.app/",
+            sourceCode:"https://github.com/akash-srivastav02/url-shortener"
         }
         // {
         //     id:5,
